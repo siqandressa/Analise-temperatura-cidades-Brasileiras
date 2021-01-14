@@ -13,6 +13,6 @@ Projeto de estudo de Data Science
 * Imagens geradas na página - https://www.andressasiqueira.com.br/an%C3%A1lise-da-temperatura-nas-cidades-
 * Última atualização:30/12/2020
 
-## Resumo geral do projeot no GitHub
+## Resumo geral do projeto no GitHub
 
 <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/siqandressa/Analise-temperatura-cidades-Brasileiras">
